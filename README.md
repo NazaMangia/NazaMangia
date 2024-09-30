@@ -9,3 +9,37 @@ My interests also include exploring AI-based solutions, developing algorithms, a
 ##Lenguages
 *Spanish native
 *English B1
+
+## Skills
+
+### Technical Skills
+- **Programming Languages**: C#, HTML, CSS, PHP, Java
+- **Software & Tools**: Git, GitHub, PSeInt, Visual Studio
+
+- **Hardware & Software**: PC Assembly and Repair, Hardware Diagnostics, Operating Systems Installation
+- **Networking**: Basic Network Setup and Troubleshooting
+- **IT Support**: Issue Resolution, System Maintenance, and Help Desk Support
+- **Cybersecurity**: Basic Security Practices and System Protection
+
+### Key Skills
+- Problem Solving
+- Effective Communication
+- Organization and Planning
+- Team Collaboration
+- Ability to Learn Quickly
+- Attention to Detail
+
+## Contact me
+As I continue my journey in Software Development, 
+I am always open to new projects and opportunities where I can leverage 
+my skills and expand my expertise. 
+Let’s connect and explore how we can build innovative solutions together!
+
+
+## Technologies
+- **Programming Languages**: C#, HTML, CSS, PHP, Java
+- **Software & Tools**: Git, GitHub, PSeInt, Visual Studio
+
+## Hobbies
+* Play videogames
+* Read books
